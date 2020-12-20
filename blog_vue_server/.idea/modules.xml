@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/blog_admin_provider_hystrix/blog_admin_provider_hystrix.iml" filepath="$PROJECT_DIR$/blog_admin_provider_hystrix/blog_admin_provider_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_api/blog_api.iml" filepath="$PROJECT_DIR$/blog_api/blog_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_article_provider_hystrix/blog_article_provider_hystrix.iml" filepath="$PROJECT_DIR$/blog_article_provider_hystrix/blog_article_provider_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_consumer_feign/blog_consumer_feign.iml" filepath="$PROJECT_DIR$/blog_consumer_feign/blog_consumer_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_consumer_hystrix_dashboard/blog_consumer_hystrix_dashboard.iml" filepath="$PROJECT_DIR$/blog_consumer_hystrix_dashboard/blog_consumer_hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_eureka/blog_eureka.iml" filepath="$PROJECT_DIR$/blog_eureka/blog_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_server.iml" filepath="$PROJECT_DIR$/blog_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog_zuul/blog_zuul.iml" filepath="$PROJECT_DIR$/blog_zuul/blog_zuul.iml" />
+    </modules>
+  </component>
+</project>

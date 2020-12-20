@@ -1,0 +1,385 @@
+2020-12-20 01:39:32.990 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 01:39:34.711 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 10:41:16.972 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 10:41:19.475 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 11:41:34.706 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 11:41:38.040 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:04:07.142 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:04:11.408 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:04:11.409 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:04:13.419 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:15:16.062 [Thread-51] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608437716062, current=DOWN, previous=UP]
+2020-12-20 12:15:16.167 [Thread-51] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 12:15:35.077 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:15:37.902 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:15:37.903 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:15:38.757 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:16:52.371 [I/O dispatcher 1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/0?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 12:30:54.585 [Thread-42] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608438654585, current=DOWN, previous=UP]
+2020-12-20 12:30:54.614 [Thread-42] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 12:31:04.666 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:31:06.137 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:31:06.137 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:31:06.943 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:35:12.472 [Thread-32] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608438912472, current=DOWN, previous=UP]
+2020-12-20 12:35:12.492 [Thread-32] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 12:35:22.084 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:35:23.544 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:35:23.544 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:35:24.271 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:44:15.375 [Thread-32] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608439455375, current=DOWN, previous=UP]
+2020-12-20 12:44:15.413 [Thread-32] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 12:46:23.397 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:46:24.920 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:46:24.920 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:46:25.666 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:48:17.062 [I/O dispatcher 1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/1?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 12:49:45.595 [Thread-32] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608439785595, current=DOWN, previous=UP]
+2020-12-20 12:49:45.621 [Thread-32] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 12:49:57.710 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:49:59.259 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 12:49:59.259 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 12:49:59.974 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 12:54:04.776 [I/O dispatcher 1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/2?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 13:00:05.066 [Thread-34] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608440405066, current=DOWN, previous=UP]
+2020-12-20 13:00:05.090 [Thread-34] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 13:01:22.295 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 13:01:24.039 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 13:01:24.039 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 13:01:25.079 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 13:02:54.591 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/3?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 13:15:41.858 [Thread-34] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608441341858, current=DOWN, previous=UP]
+2020-12-20 13:15:41.891 [Thread-34] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 13:15:52.824 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 13:15:54.313 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 13:15:54.313 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 13:15:55.212 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 13:16:18.098 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/4?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 13:59:39.835 [Thread-33] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608443979835, current=DOWN, previous=UP]
+2020-12-20 13:59:40.157 [Thread-33] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 13:59:56.268 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 13:59:59.732 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 13:59:59.733 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 14:00:04.073 [main] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article?master_timeout=30s&include_type_name=true&timeout=30s] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Using include_type_name in create index requests is deprecated. The parameter will be removed in the next major version."]
+2020-12-20 14:00:04.322 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 14:00:30.353 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/5?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 14:10:16.129 [Thread-54] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608444616129, current=DOWN, previous=UP]
+2020-12-20 14:10:16.277 [Thread-54] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 14:10:37.822 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 14:10:42.052 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 14:10:42.054 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 14:10:44.553 [main] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article?master_timeout=30s&include_type_name=true&timeout=30s] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Using include_type_name in create index requests is deprecated. The parameter will be removed in the next major version."]
+2020-12-20 14:10:44.821 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 14:11:07.061 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/6?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 14:12:46.568 [Thread-58] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608444766568, current=DOWN, previous=UP]
+2020-12-20 14:12:46.684 [Thread-58] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 14:13:00.519 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 14:13:03.903 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 14:13:03.904 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 14:13:09.702 [main] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article?master_timeout=30s&include_type_name=true&timeout=30s] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Using include_type_name in create index requests is deprecated. The parameter will be removed in the next major version."]
+2020-12-20 14:13:09.990 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 14:14:43.418 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/7?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 14:18:40.022 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/8?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 16:58:19.482 [http-nio-8002-exec-6] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/7/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 16:58:35.327 [http-nio-8002-exec-10] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/6/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:05:35.500 [http-nio-8002-exec-6] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/6/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:10:17.206 [http-nio-8002-exec-2] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/8/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:10:45.477 [http-nio-8002-exec-8] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/6/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:11:25.868 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:11:44.932 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:16:12.552 [Thread-50] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608455772552, current=DOWN, previous=UP]
+2020-12-20 17:16:12.710 [Thread-50] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 17:16:24.313 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 17:16:25.864 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 17:16:25.865 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 17:16:34.241 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 17:18:27.314 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [DELETE http://127.0.0.1:19200/article/article/7?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the /{index}/_doc/{id} endpoint instead."]
+2020-12-20 17:19:16.442 [http-nio-8002-exec-7] WARN  org.elasticsearch.client.RestClient - request [DELETE http://127.0.0.1:19200/article/article/6?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the /{index}/_doc/{id} endpoint instead."]
+2020-12-20 17:19:41.346 [http-nio-8002-exec-8] WARN  org.elasticsearch.client.RestClient - request [DELETE http://127.0.0.1:19200/article/article/5?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the /{index}/_doc/{id} endpoint instead."]
+2020-12-20 17:20:16.423 [http-nio-8002-exec-2] WARN  org.elasticsearch.client.RestClient - request [DELETE http://127.0.0.1:19200/article/article/8?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the /{index}/_doc/{id} endpoint instead."]
+2020-12-20 17:20:43.442 [Thread-33] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608456043442, current=DOWN, previous=UP]
+2020-12-20 17:20:43.464 [Thread-33] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 17:20:53.309 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 17:20:54.833 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 17:20:54.834 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 17:20:55.696 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 17:21:37.752 [http-nio-8002-exec-2] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/9?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:22:05.884 [http-nio-8002-exec-5] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/10?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:23:51.667 [http-nio-8002-exec-8] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/11?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:24:15.834 [http-nio-8002-exec-10] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/12?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:24:36.520 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/13?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:24:55.655 [http-nio-8002-exec-6] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/14?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:25:19.070 [http-nio-8002-exec-9] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/15?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:25:37.495 [http-nio-8002-exec-2] WARN  org.elasticsearch.client.RestClient - request [PUT http://127.0.0.1:19200/article/article/16?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document index requests is deprecated, use the typeless endpoints instead (/{index}/_doc/{id}, /{index}/_doc, or /{index}/_create/{id})."]
+2020-12-20 17:25:48.147 [http-nio-8002-exec-7] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/16/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:26:20.073 [http-nio-8002-exec-5] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/16/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:26:48.587 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/14/_update?timeout=1m] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in document update requests is deprecated, use the endpoint /{index}/_update/{id} instead."]
+2020-12-20 17:27:35.424 [http-nio-8002-exec-9] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:02.391 [http-nio-8002-exec-1] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:02.711 [http-nio-8002-exec-2] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:08.840 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:09.145 [http-nio-8002-exec-5] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:15.116 [http-nio-8002-exec-7] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:15.799 [http-nio-8002-exec-8] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:18.870 [http-nio-8002-exec-9] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:35:19.122 [http-nio-8002-exec-10] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:36:32.087 [http-nio-8002-exec-3] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:36:32.354 [http-nio-8002-exec-5] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:36:41.470 [http-nio-8002-exec-7] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 17:36:42.001 [http-nio-8002-exec-8] WARN  org.elasticsearch.client.RestClient - request [POST http://127.0.0.1:19200/article/article/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true] returned 1 warnings: [299 Elasticsearch-7.10.1-1c34507e66d7db1211f66f3513706fdf548736aa "[types removal] Specifying types in search requests is deprecated."]
+2020-12-20 19:45:03.793 [Thread-33] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1608464703793, current=DOWN, previous=UP]
+2020-12-20 19:45:04.017 [Thread-33] WARN  org.springframework.context.annotation.CommonAnnotationBeanPostProcessor - Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2020-12-20 20:02:31.601 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:02:34.395 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.connectTimeOut
+2020-12-20 20:02:34.395 [main] WARN  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.sustly.config.ElasticSearchConfig.socketTimeOut
+2020-12-20 20:02:36.538 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:04:32.780 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:04:37.555 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:05:02.517 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:05:05.729 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:08:56.864 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:08:59.827 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:09:11.508 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:09:15.512 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:09:30.486 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:09:34.322 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:15:04.854 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:15:08.428 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 20:15:15.799 [main] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:15:15.801 [main] WARN  com.netflix.discovery.DiscoveryClient - Using default backup registry implementation which does not do anything.
+2020-12-20 20:15:16.472 [RMI TCP Connection(4)-192.168.56.1] WARN  org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator - DataSource health check failed
+java.lang.NullPointerException: null
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	at com.alibaba.druid.util.JdbcUtils.createDriver(JdbcUtils.java:559)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:697)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1069)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1065)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:104)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:324)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.getProduct(DataSourceHealthIndicator.java:122)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.doDataSourceHealthCheck(DataSourceHealthIndicator.java:109)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.doHealthCheck(DataSourceHealthIndicator.java:104)
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:84)
+	at org.springframework.boot.actuate.health.CompositeHealthIndicator.health(CompositeHealthIndicator.java:68)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:223)
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:76)
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:61)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:102)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:93)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1468)
+	at javax.management.remote.rmi.RMIConnectionImpl.access$300(RMIConnectionImpl.java:76)
+	at javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1309)
+	at javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1401)
+	at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:834)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:15:19.867 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:15:19.868 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.DiscoveryClient - DiscoveryClient_BLOG-ADMIN-PROVIDER-HYSTRIX/blog-admin-provider-hystrix - registration failed Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:15:19.869 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.InstanceInfoReplicator - There was a problem with the instance info replicator
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:15:49.825 [DiscoveryClient-HeartbeatExecutor-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:15:49.837 [DiscoveryClient-CacheRefreshExecutor-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:15:53.896 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:15:53.898 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.DiscoveryClient - DiscoveryClient_BLOG-ADMIN-PROVIDER-HYSTRIX/blog-admin-provider-hystrix - registration failed Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:15:53.899 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.InstanceInfoReplicator - There was a problem with the instance info replicator
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:16:23.855 [DiscoveryClient-HeartbeatExecutor-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:16:23.871 [DiscoveryClient-CacheRefreshExecutor-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:16:27.921 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-12-20 20:16:27.922 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.DiscoveryClient - DiscoveryClient_BLOG-ADMIN-PROVIDER-HYSTRIX/blog-admin-provider-hystrix - registration failed Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 20:16:27.922 [DiscoveryClient-InstanceInfoReplicator-0] WARN  com.netflix.discovery.InstanceInfoReplicator - There was a problem with the instance info replicator
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-12-20 21:09:17.997 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:09:20.581 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:21:32.534 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:21:34.827 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:35:56.373 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:35:58.732 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:52:30.661 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:52:31.327 [main] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+2020-12-20 21:55:42.605 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 21:55:44.075 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:00:02.471 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:00:03.938 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:04:58.845 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:05:00.284 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:06:44.665 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:06:46.030 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:06:48.612 [RMI TCP Connection(1)-192.168.56.1] WARN  org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator - DataSource health check failed
+org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: url not set
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:324)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.getProduct(DataSourceHealthIndicator.java:122)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.doDataSourceHealthCheck(DataSourceHealthIndicator.java:109)
+	at org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator.doHealthCheck(DataSourceHealthIndicator.java:104)
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:84)
+	at org.springframework.boot.actuate.health.CompositeHealthIndicator.health(CompositeHealthIndicator.java:68)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:223)
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:76)
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:61)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:102)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:93)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1468)
+	at javax.management.remote.rmi.RMIConnectionImpl.access$300(RMIConnectionImpl.java:76)
+	at javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1309)
+	at javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1401)
+	at javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at sun.reflect.GeneratedMethodAccessor74.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:834)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: url not set
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:888)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1369)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1365)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:109)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:151)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:115)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:78)
+	... 39 common frames omitted
+2020-12-20 22:07:27.792 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:07:29.261 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:11:45.668 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:11:47.066 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:14:05.260 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:14:07.509 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:17:10.020 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:17:12.151 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:30:21.271 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:30:21.530 [main] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+2020-12-20 22:31:44.403 [localhost-startStop-1] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2020-12-20 22:31:45.906 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

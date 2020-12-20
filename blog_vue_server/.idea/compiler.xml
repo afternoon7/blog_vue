@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="blog_zuul" />
+        <module name="blog_consumer_hystrix_dashboard" />
+        <module name="blog_admin_provider_hystrix" />
+        <module name="blog_article_provider_hystrix" />
+        <module name="blog_eureka" />
+        <module name="blog_api" />
+        <module name="blog_consumer_feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blog_admin_provider_hystrix" target="1.8" />
+      <module name="blog_api" target="1.8" />
+      <module name="blog_article_provider_hystrix" target="1.8" />
+      <module name="blog_consumer_feign" target="1.8" />
+      <module name="blog_consumer_hystrix_dashboard" target="1.8" />
+      <module name="blog_eureka" target="1.8" />
+      <module name="blog_server" target="1.8" />
+      <module name="blog_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

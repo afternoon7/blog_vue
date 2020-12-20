@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/blog_admin_provider_hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_article_provider_hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_consumer_feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_consumer_hystrix_dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_zuul/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
