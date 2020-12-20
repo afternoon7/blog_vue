@@ -1,11 +1,11 @@
 # blog_vue
 forked from sustly/blog_vue_web
-###补充了sql数据库文件，修复部分运行报错
+### 补充了sql数据库文件，修复部分运行报错
 
 # blog_vue_server
 
-##博客系统后端
-###使用springboot2.0.1.RELEASE、spring cloud Finchley.SR1、mybaitis、elasticsearch7.1、druid1.1.20、mariadb10.5.8
+## 博客系统后端
+### 使用springboot2.0.1.RELEASE、spring cloud Finchley.SR1、mybaitis、elasticsearch7.1、druid1.1.20、mariadb10.5.8
 
 一、整体框架介绍
 
